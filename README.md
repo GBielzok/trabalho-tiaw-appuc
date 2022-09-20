@@ -1,5 +1,5 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# APPUC
+Releitura do atual aplicativo da PUC Minas.
 
 ## Alunos integrantes da equipe
 
